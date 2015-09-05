@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-ulogin",
+  "version": "1.0.0",
+  "description": "Cordova ulogin Plugin",
+  "cordova": {
+    "id": "cordova-plugin-ulogin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova"
+  ],
+  "author": "4refr0nt",
+  "license": "MIT"
+}

@@ -43,11 +43,15 @@ en, ru, uk, fr, de
 
 ## Installation
 
-    ```cordova plugin add cordova-plugin-ulogin```
+```
+cordova plugin add cordova-plugin-ulogin
+```
 
 or with Ionic Framework
 
-    ```ionic plugin add cordova-plugin-ulogin```
+```
+ionic plugin add cordova-plugin-ulogin
+```
 
 
 ### Supported Platforms
